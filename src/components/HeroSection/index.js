@@ -7,7 +7,7 @@ const HeroSection = () => {
     <div className="hero-section" id="hero-section">
       <div className="hero__container">
         <div className="hero__intro">
-          <p>Hi! my name is Tomcy, I love </p>
+          <p>Hi! my name is Nana Yaw Osei-Ameyaw, I love </p>
           <h1>
             Building <span className="hero__color">websites</span> and{" "}
             <span className="hero__color">experiences</span>.
