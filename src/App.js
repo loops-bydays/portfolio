@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import WorksCategory from "./components/WorksCategory";
 
 function App() {
+  // my portfolio
   return (
     <div>
       <Navbar />
